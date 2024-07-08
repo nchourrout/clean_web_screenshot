@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@cliqz/adblocker-puppeteer": "^1.27.11",
+    "cross-fetch": "^4.0.0",
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^22.12.1",
+    "yargs": "^17.7.2"
+  },
+  "devDependencies": {
+    "@types/node-fetch": "^2.6.11",
+    "@types/yargs": "^17.0.32"
+  }
+}
