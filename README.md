@@ -1,6 +1,6 @@
 # Puppeteer Screenshot Script
 
-This script takes screenshots of web pages using Puppeteer, with options for viewport size and full-page screenshots. It also blocks cookie banners using PuppeteerBlocker.
+This script takes screenshots of web pages using Puppeteer, with options for viewport size and full-page screenshots. It also hide cookie banners using PuppeteerBlocker.
 
 ## Installation
 

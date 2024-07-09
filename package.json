@@ -4,6 +4,8 @@
     "cross-fetch": "^4.0.0",
     "node-fetch": "^3.3.2",
     "puppeteer": "^22.12.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
     "yargs": "^17.7.2"
   },
   "devDependencies": {
